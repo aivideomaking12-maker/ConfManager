@@ -110,7 +110,7 @@ const App: React.FC = () => {
 
       <footer className="mt-auto py-12 border-t border-slate-900 bg-slate-950">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col items-center gap-2 text-slate-500 text-sm">
-          <p className="font-medium">Minden jog fenntartva - HV ViberCoder</p>
+          <p className="font-medium">Minden jog fenntartva - HV VibeCoder</p>
           <p className="text-xs opacity-50 tabular-nums">Verzió: 1.2.5 (2025)</p>
         </div>
       </footer>
